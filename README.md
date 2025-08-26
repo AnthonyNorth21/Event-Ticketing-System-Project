@@ -1,7 +1,7 @@
 
-# TicketSeller
+# Event Ticketing System
 
-A simple interactive ticket-selling system written in Python. This script simulates a basic ticket booth where users can purchase tickets with constraints on the maximum number per buyer.
+A simple interactive ticket selling system written in Python. This script simulates a basic ticket booth where users can purchase tickets with constraints on the maximum number per buyer.
 
 ## Features
 
