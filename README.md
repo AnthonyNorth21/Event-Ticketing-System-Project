@@ -36,7 +36,6 @@ Welcome! There are 20 tickets available.
 Enter number of tickets to buy (1 to 4), or 'q' to quit: 3
 Successfully purchased 3 ticket(s). Tickets remaining: 17
 
-...
 
 All tickets sold!
 Total buyers: 7
